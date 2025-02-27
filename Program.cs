@@ -25,7 +25,7 @@ namespace AbstractFactory
                     return;
             }
 
-            GadgetStore store = new GadgetStore(factory);
+            GalaxayStore store = new GalaxayStore(factory);
             store.DisplayGadgets();
         }
     }

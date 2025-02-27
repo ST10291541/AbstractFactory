@@ -1,8 +1,6 @@
-
-
 namespace AbstractFactory 
 {
-    public class SamsungFactoryFactory : IGadgetFactory 
+     public class SamsungFactory : IGadgetFactory 
     {
         public Smartwatch CreateSmartWatch()
         {
@@ -19,5 +17,5 @@ namespace AbstractFactory
             return new WirelessEarbuds("Samsung", "Galaxy Earbuds Pro");
         }
     }
-}
 
+}

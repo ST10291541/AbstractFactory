@@ -1,29 +1,27 @@
-
-
 namespace AbstractFactory
 {
     public class GalaxayStore
     {
-        private IGadgetFactory gadgetFactory;
+        private IGadgetFactory _gadgetFactory;
 
         public GalaxayStore(IGadgetFactory factory)
         {
-            gadgetFactory = factory;
+            _gadgetFactory = factory;
         }
 
         public void DisplayGadgets() 
         {
-            //var smartwatch = _gadgetFactory.CreateSmartwatch();
-            //var vrHeadset = _gadgetFactory.CreateVRHeadset();
-            //var wirelessEarbuds = _gadgetFactory.CreateWirelessEarbuds();
+            var smartwatch = _gadgetFactory.CreateSmartWatch();
+            var vrHeadset = _gadgetFactory.CreateVRHeadset();
+            var wirelessEarbuds = _gadgetFactory.CreateWirelessEarbuds();
 
-            //Console.WriteLine(smartwatch.GetDetails());
-            //Console.WriteLine(vrHeadset.GetDetails());
-            //Console.WriteLine(wirelessEarbuds.GetDetails());
+            Console.WriteLine(smartwatch.getDetails());
+            Console.WriteLine(vrHeadset.getDetails());
+            Console.WriteLine(wirelessEarbuds.getDetails());
 
-            Console.WriteLine(gadgetFactory.CreateSmartwatch.GetDetails());
-            Console.WriteLine(gadgetFactory.CreateVRHeadset.GetDetails());
-            Console.WriteLine(gadgetFactory.CreateWirelessEarbuds.GetDetails());
+            //Console.WriteLine(gadgetFactory.CreateSmartWatch.getDetails());
+            //Console.WriteLine(gadgetFactory.CreateVRHeadset.GetDetails());
+            //Console.WriteLine(gadgetFactory.CreateWirelessEarbuds.GetDetails());
         }
     }
-}s
+}

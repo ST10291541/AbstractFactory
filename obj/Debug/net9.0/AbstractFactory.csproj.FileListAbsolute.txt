@@ -2,3 +2,18 @@ C:\ProgramData\PROG7311\AbstractFactory\obj\Debug\net9.0\AbstractFactory.Generat
 C:\ProgramData\PROG7311\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
 C:\ProgramData\PROG7311\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
 C:\ProgramData\PROG7311\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.sourcelink.json
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+C:\ProgramData\PROG7311\AF - ST10291541\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll

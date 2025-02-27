@@ -1,6 +1,3 @@
-//using AbstractFactory.Products;
-using AbstractFactory.Factories;
-
 namespace AbstractFactory 
 {
     public class AppleFactory : IGadgetFactory

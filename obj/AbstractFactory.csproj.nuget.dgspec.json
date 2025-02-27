@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramData\\PROG7311\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\ProgramData\\PROG7311\\AF - ST10291541\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\ProgramData\\PROG7311\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\ProgramData\\PROG7311\\AF - ST10291541\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramData\\PROG7311\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\ProgramData\\PROG7311\\AF - ST10291541\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\ProgramData\\PROG7311\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "C:\\ProgramData\\PROG7311\\AF - ST10291541\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramData\\PROG7311\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\ProgramData\\PROG7311\\AF - ST10291541\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
